@@ -1,6 +1,6 @@
 <img align="right" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-trends.gif" alt="DevOps" width="400" height="400"/>
 
-# 🚀 Your Title (e.g., DevOps | Cloud Enthusiast | AI Enthusiast)
+# 🚀  DevOps | Cloud Enthusiast | AI Enthusiast
 
 With a strong foundation in [Your Fields], I leverage cutting-edge technologies to streamline infrastructure management, automate workflows, and drive innovation in cloud-based environments. I’m passionate about empowering the tech community through knowledge-sharing, hands-on projects, and thought leadership.
 
